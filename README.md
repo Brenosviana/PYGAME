@@ -24,3 +24,8 @@ Com tudo instalado, basta abrir pasta onde está todos os códigos. Depois, cliq
 Você deve ultilizar o espaço e as setas para selecionar os personagens para cada jogador. O primeiro jogador ultilizara das teclas W A S D para movimentação e E MouseEsquerdo
 para ataques, e o jogador 2 ultilizara as teclas I J K L para movimentação e U MouseEsquerdo para os ataques. Ganha quem zerar a vida do adversário primeiro, ou 
 caso o tempo acabe ganha quem estava com mais vida.
+
+
+* VIDEO
+https://youtu.be/btDUe1JLj6A
+
